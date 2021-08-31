@@ -1,4 +1,5 @@
 #!/usr/bin/python3.9
+# You run this script providing the name of a log file. For example, ./pars.py --log-file=cri-o.log
 
 import sys
 import os
